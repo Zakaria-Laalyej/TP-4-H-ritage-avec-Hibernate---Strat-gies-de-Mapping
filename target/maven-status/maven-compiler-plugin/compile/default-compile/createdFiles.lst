@@ -1,0 +1,10 @@
+com\example\model\singletable\Vehicule.class
+com\example\model\joined\Manager.class
+com\example\model\tableperclass\Electronique.class
+com\example\App.class
+com\example\model\joined\Developpeur.class
+com\example\model\joined\Employe.class
+com\example\model\singletable\Voiture.class
+com\example\model\tableperclass\Produit.class
+com\example\model\singletable\Moto.class
+com\example\model\tableperclass\Livre.class
